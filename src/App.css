@@ -1,0 +1,27 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .control-panel {
+    margin: 20px;
+  }
+  
+  .control-panel label {
+    margin-right: 15px;
+  }
+  
+  .control-panel button {
+    margin-right: 10px;
+    padding: 5px 10px;
+  }
+  
+  .control-panel input,
+  .control-panel select {
+    margin-left: 5px;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
